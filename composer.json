@@ -1,6 +1,6 @@
 {
     "name": "codelint/qcloud-cmq",
-    "description": "Tencent cloud cmq driver for laravel",
+    "description": "Tencent cloud cmq queue driver for laravel",
     "keywords": [
         "PHP",
         "QCloud",
