@@ -2,6 +2,7 @@
 Tencent cloud cmq driver for laravel
 
 
+### conf/queue.php :
 ```php
 return [
     'connections' => [
