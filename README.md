@@ -1,5 +1,5 @@
 # qcloud-cmq
-Tencent cloud cmq driver for laravel
+Tencent cloud cmq queue driver for laravel
 
 
 ### conf/queue.php :
