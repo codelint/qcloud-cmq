@@ -1,6 +1,6 @@
 {
     "name": "codelint/qcloud-cmq",
-    "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
+    "description": "Tencent cloud cmq driver for laravel",
     "keywords": [
         "PHP",
         "QCloud",
@@ -25,12 +25,6 @@
         "laravel/framework": "^9.11"
     },
     "require-dev": {
-    },
-    "suggest": {
-        "mpdf/mpdf": "Option for rendering PDF with PDF Writer",
-        "dompdf/dompdf": "Option for rendering PDF with PDF Writer (doesn't yet support PHP8)",
-        "tecnickcom/tcpdf": "Option for rendering PDF with PDF Writer (doesn't yet support PHP8)",
-        "jpgraph/jpgraph": "Option for rendering charts, or including charts with PDF or HTML Writers"
     },
     "autoload": {
         "psr-4": {
