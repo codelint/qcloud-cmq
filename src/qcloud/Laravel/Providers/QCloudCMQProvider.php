@@ -1,4 +1,4 @@
-<?php namespace Com\Codelint\QCloud\Laravel\Provider;
+<?php namespace Com\Codelint\QCloud\Laravel\Providers;
 
 use Com\Codelint\QCloud\Laravel\Queue\CMQConnector;
 use Illuminate\Support\ServiceProvider;
