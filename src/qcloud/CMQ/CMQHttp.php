@@ -68,7 +68,7 @@ class CMQHttp
         if (isset($req_inter->header)) {
             curl_setopt($this->curl, CURLOPT_HTTPHEADER, $req_inter->header);
         }
-        Log::info($url);
+        // Log::info($url);
         curl_setopt($this->curl, CURLOPT_URL, $url);
         curl_setopt($this->curl, CURLOPT_TIMEOUT, $this->connection_timeout +$userTimeout );
 
